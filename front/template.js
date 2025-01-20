@@ -2,7 +2,7 @@ document.addEventListener('DOMContentLoaded', function() {
     
     var date = new Date();
     console.log(date.toISOString());
-    //getTasks()
+    getTasks()
     //createTask("test", date.toISOString())
 }, false)
 
